@@ -1,0 +1,17 @@
+**/*.map
+**/*.swp
+**/*.swo
+**/*.pyc
+**/*~
+**/.DS_Store
+**/*.egg-info
+
+.cache/
+.vscode/
+node_modules/
+
+build/
+dist/
+/coverage/
+/site/
+
